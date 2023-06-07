@@ -23,8 +23,6 @@ public class QuotationService {
 	@RestClient
 	CurrencyPriceClient currencyPriceClient;
 
-//  @Inject
-	// CurrencyPriceDTO currencyPriceDTO;
 
 	@Inject
 	QuotationRepository quotationRepository;
